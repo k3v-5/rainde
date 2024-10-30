@@ -1,0 +1,10 @@
+npm init -y #en backend
+
+npm install express mysql cors nodemon
+
+"start":"nodemon serrver.js" #en package.json
+
+pasar server.js a backend
+
+node server.js #en terminal 
+npm start #frontend 
